@@ -1,5 +1,5 @@
 #Greenfoot properties
-#Mon Aug 12 21:17:53 PDT 2019
+#Wed Aug 28 10:22:47 PDT 2019
 target24.type=ClassTarget
 target16.name=MatthewAdrian
 target13.editor.width=900
@@ -168,6 +168,7 @@ class.BharathSenthilkumar.superclass=Student
 dependency24.to=PriyankaNagasamudra
 class.AryanJadhav.superclass=Student
 target21.name=Student
+class.MichaelRejo.superclass=Student
 target2.editor.y=251
 target2.editor.x=158
 target18.height=50
