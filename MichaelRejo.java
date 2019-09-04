@@ -1,4 +1,6 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
+import java.lang.Math; 
+
 /**
  * The MichaelRejo class can be used as a model for your own class that represents you and your seating location in AP CSA
  * 
